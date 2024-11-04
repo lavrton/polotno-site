@@ -22,7 +22,7 @@
     "@angular/platform-browser": "^18.0.0",
     "@angular/router": "^18.2.7",
     "mobx-angular": "^4.8.0",
-    "polotno": "2.14.5",
+    "polotno": "2.14.6",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "rxjs": "7.8.1"
