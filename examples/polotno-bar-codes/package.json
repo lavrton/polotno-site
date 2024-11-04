@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "jsbarcode": "3.11.5",
-    "polotno": "2.14.4",
+    "polotno": "2.14.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.1"
