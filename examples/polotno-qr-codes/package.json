@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "polotno": "2.14.8",
+    "polotno": "2.14.9",
     "qrcode": "1.5.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
