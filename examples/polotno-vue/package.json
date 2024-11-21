@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "mobx-vue-lite": "^0.4.3",
-    "polotno": "2.14.10",
+    "polotno": "2.14.11",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "vue": "^3.5.10"
