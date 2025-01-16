@@ -10,7 +10,7 @@
   "dependencies": {
     "@vue/cli-plugin-babel": "4.1.1",
     "mobx-vue": "2.0.11",
-    "polotno": "2.16.5",
+    "polotno": "2.17.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "vue": "^2.6.11"
